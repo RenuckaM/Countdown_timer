@@ -17,5 +17,6 @@
  **Step 2: Clone the Repository Locally**
 
      ``git clone https://github.com/your-username/Countdown-Timer.git
-cd Countdown-Timer``
+     
+       cd Countdown-Timer``
 
