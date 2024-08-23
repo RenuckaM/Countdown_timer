@@ -8,8 +8,6 @@
 
 **Real-Time Updates:** The countdown displays in HH:MM:SS format and updates every second.
 
-**Completion Notification:** Displays a "Time's up!" message when the countdown finishes.
-
 ## Installation
 
 To run this project locally, follow these steps:
