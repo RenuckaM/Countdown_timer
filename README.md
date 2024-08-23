@@ -1,5 +1,7 @@
 # Countdown_timer
 
+# Demo ![Click here](https://renuckam.github.io/Countdown_timer/)
+
 # Features
 
 **Dynamic Time Input:** Users can specify countdown duration in seconds.
@@ -25,18 +27,18 @@ Simply open the index.html file in your preferred web browser to use the timer.
    
 
 ## Usage
+
 1. Open the application in your web browser.
+
 2. Enter the desired countdown time in seconds in the input field.
+
 3. Click the "Start Countdown" button to begin the timer.
+   
 4. The remaining time will be displayed in HH:MM:SS format.
+   
 5. Once the time reaches zero, a "Time's up!" message will be shown.
 
-
-##### **Screenshots**
-```markdown
-![Countdown Timer Screenshot](path/to/screenshot.png)
-
-# Contributing
+## Contributing
 
 We welcome contributions from the community! If you'd like to contribute, please follow these steps:
 
