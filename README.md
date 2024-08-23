@@ -1,6 +1,6 @@
 # Countdown_timer
 
-# Demo ![Click here](https://renuckam.github.io/Countdown_timer/)
+# Demo [Click here](https://renuckam.github.io/Countdown_timer/)
 
 # Features
 
