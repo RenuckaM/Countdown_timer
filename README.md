@@ -4,8 +4,7 @@ A simple and interactive countdown timer application that allows users to set, s
 
 ## Project Preview
 
-![image](https://github.com/user-attachments/assets/f69b114f-0612-4691-8a1e-2cff86d75be7)
-
+![image](https://github.com/user-attachments/assets/a1f5c3da-85b8-4b70-8d03-0d6865273d50)
 
 Explore the live experience [Click here](https://renuckam.github.io/Countdown_timer/)
 
