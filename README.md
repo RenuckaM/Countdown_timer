@@ -1,10 +1,10 @@
 ## Countdown_timer
 
-A simple and interactive countdown timer application that allows users to set, start, and manage countdowns with real-time updates. This project utilizes HTML, CSS3, JavaScript, and Firebase for a complete, full-stack experience.
+A simple and interactive countdown timer application that allows users to set, start and manage countdowns with real-time updates. This project utilizes HTML, CSS3, JavaScript for a complete, full-stack experience.
 
 ## Project Preview
 
-[Click here](https://renuckam.github.io/Countdown_timer/)
+Explore the live experience [Click here](https://renuckam.github.io/Countdown_timer/)
 
 ## Technologies
 
@@ -14,31 +14,40 @@ A simple and interactive countdown timer application that allows users to set, s
     
   - **JavaScript:** For implementing the timer functionality and user interactions.
 
+## Snapshots
+
+
 ## Uses
 
   - **Event Scheduling:** To track the time remaining until an event starts or ends.
   - **Product Launches:** To build anticipation for the release of new products or services.
   - **Online Auctions:** To indicate the time remaining for auction bidding.
   - **Games and Competitions:** To monitor the time left for a game or challenge.
-  - **Productivity:** To manage work intervals and breaks, often using techniques like the Pomodoro Technique.
+  - **Productivity:** To manage work intervals and breaks, often using techniques like the Pomodoro Technique.  
 
 ## Steps
 
-To run this project locally, follow these steps:
+1. **Clone the repository**
+   ``
+   git clone https://github.com/your-username/Countdown-Timer.git ``
 
-1. **Clone the repository:**
-   
-   ```bash
-   ``git clone https://github.com/your-username/Countdown-Timer.git
-   
-   cd Countdown-Timer``
+2.  **Navigate to the project directory**
+    ``
+    cd Countdown-Timer.git ``
 
-2. **Open the index.html file in your browser:**
-   
-Simply open the index.html file in your preferred web browser to use the timer.   
-   
+3.  **Install dependencies**
+   ``
+    npm install ``
 
-## Contributing
+4. **Open the index.html file in your browser:**
+   
+     Simply open the index.html file in your preferred web browser to use the timer.    
+
+5.  **Run the application**
+    ``
+    npm start ``
+
+## Contribution
 
 We welcome contributions from the community! If you'd like to contribute, please follow these steps:
 
