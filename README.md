@@ -49,7 +49,7 @@ Explore the live experience [Click here](https://renuckam.github.io/Countdown_ti
 
 ## Contribution
 
-We welcome contributions from the community! If you'd like to contribute, please follow these steps:
+We welcome contributions! If you'd like to contribute, please follow these steps:
 
 1. **Fork the repository.**
 2. **Create a new branch:** `git checkout -b feature-branch`
