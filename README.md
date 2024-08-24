@@ -16,6 +16,9 @@ Explore the live experience [Click here](https://renuckam.github.io/Countdown_ti
 
 ## Snapshots
 
+![image](https://github.com/user-attachments/assets/25cd55ec-e141-4d96-9065-11d09949a837)
+
+
 
 ## Uses
 
